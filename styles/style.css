@@ -91,9 +91,7 @@ body{
 }
 .apresentacao__imagem{
     width: 50%;
-    border: 5px solid var(--cor-terciaria);
-    
-    border-radius: 35px;
+   
 }
 .icon{
     width: 32px;
